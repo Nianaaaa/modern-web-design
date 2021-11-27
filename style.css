@@ -56,3 +56,12 @@ nav ul li a {
     font-size: 60px;
     color: #6a7199;
 }
+.content {
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+.content btn{
+    display: inline-block;
+    background: linear-gradient(45deg,);
+}
